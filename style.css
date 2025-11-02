@@ -1,0 +1,66 @@
+#menu-bar a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    color:black
+}
+
+#menu-bar{
+    background-color: antiquewhite;
+    padding-left: 18px;
+    padding-top: 2px;
+}
+
+#menu-bar a:hover{
+    color:lightgray;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 18px;
+    padding-top: 2px;
+}
+
+#item p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#item th{
+    font-weight: 800;
+    background-color:antiquewhite;
+    color: black;
+}
+
+#item table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+#item img{
+    padding-left: 18px;
+}
+
+#item p{
+    padding-left: 18px;
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 18px;
+    padding-top: 2px;
+}
+
+#home-items img{
+    padding-left: 18px;
+}
+
+#home-items p{
+    padding-left: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
